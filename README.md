@@ -109,7 +109,7 @@ Interests| Architecture
 🖼️ Visual Explanation
 
 <p align="center">
-  <img src="assets/images/experiment-overview.svg" width="900" alt="Prompt Engineering Experiment Overview" />
+  <img src="assets/images/experiment-overview.jpg" width="900" alt="Prompt Engineering Experiment Overview" />
 </p>«The visual above summarizes the entire experiment from prompt design → AI generation → evaluation → comparison → conclusion.»
 
 Recommended Asset
@@ -400,7 +400,7 @@ REFINED
 📊 Result Visualization
 
 <p align="center">
-  <img src="assets/images/results-chart.svg" width="850" alt="Prompt Strategy Results Comparison" />
+  <img src="assets/images/results-chart.jpg" width="850" alt="Prompt Strategy Results Comparison" />
 </p>Recommended file:
 
 assets/images/results-chart.svg
@@ -568,15 +568,15 @@ prompt-engineering-lab/
 Zero-shot
 
 <p align="center">
-  <img src="assets/screenshots/zero-shot.png" width="850" alt="Zero-shot experiment screenshot" />
+  <img src="assets/screenshots/zero-shot.jpg" width="850" alt="Zero-shot experiment screenshot" />
 </p>Few-shot
 
 <p align="center">
-  <img src="assets/screenshots/few-shot.png" width="850" alt="Few-shot experiment screenshot" />
+  <img src="assets/screenshots/few-shot.jpg" width="850" alt="Few-shot experiment screenshot" />
 </p>Refined
 
 <p align="center">
-  <img src="assets/screenshots/refined.png" width="850" alt="Refined prompt experiment screenshot" />
+  <img src="assets/screenshots/refined.jpg" width="850" alt="Refined prompt experiment screenshot" />
 </p>«Screenshots provide direct visual evidence of the experiment execution.»
 
 ---
